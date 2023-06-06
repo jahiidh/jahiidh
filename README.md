@@ -31,7 +31,7 @@ Skills: PHP (Core, OOP, PDO), JavaScript, Node JS, Laravel, Django, MySQL, Mongo
   </tbody>
 </table
 
-#### Emails and Contact
+#### Emails and Contacts
 
 :email: &emsp;[jahidh.dev@gmail.com](mailto:jahidh.dev@gmail.com)
 <br >
