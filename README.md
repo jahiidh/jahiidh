@@ -4,7 +4,8 @@
 
 I'm Jahid H. I'm a Full stack web developer along with WordPress and Shopify development. I have been doing this for almost 6 years. And I'm not from C.Sc. Background. I've studied electrical engineering. Currently I'm working as a full time Freelance Developer.
 
-Skills: 
+Skills:
+
 [![PHP Badge](https://tools.jahidh.com/badge-generator/icon?svg=php&lt=PHP&tw=30&lc=4cc9ff&lb=000000&tc=000000&tb=2aa38f&is=25&fs=28&ls=42&br=0&bs=1.5)](#)
 
 :hearts: &emsp;I love to do custom and complex projects. <br/>
