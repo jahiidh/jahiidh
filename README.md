@@ -6,7 +6,7 @@ I'm Jahid H. I'm a Full stack web developer along with WordPress and Shopify dev
 
 Skills:
 
-[![PHP Badge](https://tools.jahidh.com/badge-generator/icon?svg=php&lt=PHP&tw=30&lc=4cc9ff&lb=000000&tc=000000&tb=2aa38f&is=25&fs=28&ls=42&br=0&bs=1.5)](#)
+[![PHP Badge](https://tools.jahidh.com/badge-generator/icon?svg=php&lt=PHP&tw=30&lc=24ffe2&lb=000000&tc=000000&tb=00ffd5&is=27&fs=28&ls=39&br=0&bs=1.5)](#)
 
 :hearts: &emsp;I love to do custom and complex projects. <br/>
 ⏲️ &emsp;I spend over 60 hours for coding every week. <br/>
