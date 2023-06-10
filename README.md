@@ -8,7 +8,7 @@ Skills: Skills: PHP (Core, OOP, PDO), JavaScript, Node JS, Laravel, Django, MySQ
 
 :hearts: &emsp;I love to do custom and complex projects. <br/>
 ⏲️ &emsp;I spend over 60 hours for coding every week. <br/>
-👩‍💻 &emsp;`<?php echo "<script> console.log('hello world') </script>` <br/>
+👩‍💻 &emsp;`<?php echo "<script> console.log('hello world') </script>"; ?>` <br/>
 🌐 &emsp;Website: [jahidh.com](https://jahidh.com)<br/>
 ⚡ &emsp;Fun fact: Every time you will get a new Programming Joke when you will hit wrong url on my website.
 
