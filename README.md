@@ -25,7 +25,8 @@ Skills: Skills: PHP (Core, OOP, PDO), JavaScript, Node JS, Laravel, Django, MySQ
   <tbody>
     <tr>
       <td>Mega icon library</td>
-      <td>A front end icon library with over 47k+ icons. you can change color (If there multiple line then change colors individually), size and with some more customization. Currently you can download as SVG, PNG and copy code as SVG. I'm working on web font. you can choose icons individually and it will generate a complete customized font file with all their css code. It will optimize your website speed. [Check it out](https://tools.jahidh.com/icons)</td>
+      <td>A front end icon library with over 47k+ icons. you can change color (If there multiple line then change colors individually), size and with some more customization. Currently you can download as SVG, PNG and copy code as SVG. I'm working on web font. you can choose icons individually and it will generate a complete customized font file with all their css code. It will optimize your website speed. [Check it out](https://tools.jahidh.com/icons)
+      </td>
       <td>Published</td>
     </tr>
     <tr>
