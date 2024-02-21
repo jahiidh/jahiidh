@@ -24,6 +24,11 @@ Skills: Skills: PHP (Core, OOP, PDO), JavaScript, Node JS, Laravel, Django, MySQ
   </thead>
   <tbody>
     <tr>
+      <td>Multifunctional Vanilla JS Datatable</td>
+      <td>Advanced and most lightweight datatable. It's developed using vanilla JS. It has all the features you ever need and it's kind of a complete solution for your DataTable project.</td>
+      <td>Published</td>
+    </tr>
+    <tr>
       <td>Mega icon library</td>
       <td>A front end icon library with over 47k+ icons. you can change color (If there multiple line then change colors individually), size and with some more customization. Currently you can download as SVG, PNG and copy code as SVG. I'm working on web font. you can choose icons individually and it will generate a complete customized font file with all their css code. It will optimize your website speed.</td>
       <td>Published</td>
